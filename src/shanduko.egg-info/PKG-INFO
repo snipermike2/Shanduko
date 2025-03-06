@@ -1,0 +1,31 @@
+Metadata-Version: 2.2
+Name: shanduko
+Version: 0.1.0
+Summary: AI-Powered Water Quality Monitoring System
+Author-email: Your Name <your.email@example.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: torch
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: ttkbootstrap
+Requires-Dist: sqlalchemy
+Requires-Dist: python-dotenv
+Requires-Dist: pyyaml
+
+# Shanduko
+
+AI-Powered Water Quality Monitoring System using Deep Learning
+
+## Installation
+
+```bash
+pip install -e .
+```
+
+## Usage
+
+```python
+# Example usage code will go here
+```

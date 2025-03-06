@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+      "react": "^18.x",
+      "recharts": "^2.x",
+      "@/components/ui/card": "^x.x"  
+    }
+  }

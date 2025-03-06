@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+src/shanduko/__init__.py
+src/shanduko.egg-info/PKG-INFO
+src/shanduko.egg-info/SOURCES.txt
+src/shanduko.egg-info/dependency_links.txt
+src/shanduko.egg-info/requires.txt
+src/shanduko.egg-info/top_level.txt
